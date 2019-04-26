@@ -1,0 +1,133 @@
+.header .nav-my {
+  margin-bottom: 0;
+  padding: 0 2.20rem;
+}
+
+.header .nav-my .container-fluid .navbar-header .brand {
+  padding: 0;
+  height: .50rem;
+  width: 1.27rem;
+  margin: .05rem .15rem 0 0;
+}
+
+.header .nav-my .container-fluid .navbar-header .brand img {
+  height: 100%;
+  width: 100%;
+}
+
+.header .nav-my .container-fluid .collapse .nav li {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: white;
+}
+
+.banner {
+  overflow: hidden;
+}
+
+.banner .carousel .carousel-inner .item .img-responsive {
+  width: 14.4rem;
+  height: 6.56rem;
+}
+
+.content {
+  margin: 0;
+  padding: .58rem 2.20rem .40rem;
+  background-color: #fbfaf7;
+}
+
+.content .engine .container {
+  padding: 0;
+  margin: 0;
+  width: inherit;
+}
+
+.content .engine .container .msg h1 {
+  padding-top: .48rem;
+  font-size: 0.47rem;
+  font-family: "Microsoft YaHei";
+  color: #0078d7;
+}
+
+.content .engine .container .msg h3 {
+  padding-top: 0.34rem;
+  font-size: 0.3rem;
+  font-family: "Microsoft YaHei";
+  color: #666666;
+}
+
+.content .engine .container .msg .list {
+  padding-top: .79rem;
+}
+
+.content .engine .container .msg .list .engine-msg-right {
+  padding: 0 0 0 .15rem;
+}
+
+.content .engine .container .msg .list .engine-msg-right h4 {
+  font-size: 0.19rem;
+  font-family: "Microsoft YaHei";
+  color: 333333;
+  line-height: .28rem;
+}
+
+.content .engine .container .msg .list .engine-msg-right h4 small {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: #666666;
+  line-height: .26rem;
+}
+
+.content .engine .container .msg .list div {
+  padding-bottom: .30rem;
+  box-sizing: border-box;
+}
+
+.content .engine .container .msg .engine-msg-left-1 {
+  padding: 0;
+  margin: 0;
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url("../images/sign1.png") no-repeat center center;
+  background-color: #2b80d9;
+  border-radius: .04rem;
+}
+
+.content .engine .container .msg .engine-msg-left-2 {
+  padding: 0;
+  margin: 0;
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url("../images/sign2.png") no-repeat center center;
+  background-color: #2b80d9;
+  border-radius: .04rem;
+}
+
+.content .engine .container .msg .engine-msg-left-3 {
+  padding: 0;
+  margin: 0;
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url("../images/sign3.png") no-repeat center center;
+  background-color: #2b80d9;
+  border-radius: .04rem;
+}
+
+.content .engine .container .msg .engine-msg-left-4 {
+  padding: 0;
+  margin: 0;
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url("../images/sign4.png") no-repeat center center;
+  background-color: #2b80d9;
+  border-radius: .04rem;
+}
+
+.content .engine .container .pic {
+  padding-top: .58rem;
+}
+
+.content .engine .container .pic img {
+  width: 3.65rem;
+  height: 4.64rem;
+}
