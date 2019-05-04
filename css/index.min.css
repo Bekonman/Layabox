@@ -1,28 +1,6 @@
-.header .nav-my {
-  margin-bottom: 0;
-  padding: 0 2.20rem;
-}
-
-.header .nav-my .container-fluid .navbar-header .brand {
-  padding: 0;
-  height: .50rem;
-  width: 1.27rem;
-  margin: .05rem .15rem 0 0;
-}
-
-.header .nav-my .container-fluid .navbar-header .brand img {
-  height: 100%;
-  width: 100%;
-}
-
-.header .nav-my .container-fluid .collapse .nav li {
-  font-size: 0.14rem;
-  font-family: "Microsoft YaHei";
-  color: white;
-}
-
 .banner {
   overflow: hidden;
+  padding-bottom: 0.01rem;
 }
 
 .banner .carousel .carousel-inner .item .img-responsive {
@@ -130,4 +108,480 @@
 .content .engine .container .pic img {
   width: 3.65rem;
   height: 4.64rem;
+}
+
+.content1 {
+  margin: 0;
+  padding: .90rem 2.20rem .80rem;
+}
+
+.content1 .advantage .container {
+  width: inherit;
+}
+
+.content1 .advantage .container .row .pic {
+  padding-top: 1.12rem;
+  text-align: center;
+}
+
+.content1 .advantage .container .row .pic img {
+  width: 3.05rem;
+  height: 2.95rem;
+}
+
+.content1 .advantage .container .row .msg h1 {
+  font-size: 0.48rem;
+  font-family: "Microsoft YaHei";
+  color: #8fc31f;
+  line-height: 1.12rem;
+}
+
+.content1 .advantage .container .row .msg .list .list-5 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: .16rem;
+  width: 0.54rem;
+  height: 0.54rem;
+  border-radius: 50%;
+  background: #8fc31f url("../images/sign5.png") no-repeat center center;
+}
+
+.content1 .advantage .container .row .msg .list .list-6 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: .16rem;
+  width: 0.54rem;
+  height: 0.54rem;
+  border-radius: 50%;
+  background: #8fc31f url("../images/sign6.png") no-repeat center center;
+}
+
+.content1 .advantage .container .row .msg .list .list-7 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: .16rem;
+  width: 0.54rem;
+  height: 0.54rem;
+  border-radius: 50%;
+  background: #8fc31f url("../images/sign7.png") no-repeat center center;
+}
+
+.content1 .advantage .container .row .msg .list .list-8 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: .16rem;
+  width: 0.54rem;
+  height: 0.54rem;
+  border-radius: 50%;
+  background: #8fc31f url("../images/sign8.png") no-repeat center center;
+}
+
+.content1 .advantage .container .row .msg .list p {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: #666666;
+  line-height: 0.54rem;
+}
+
+.content2 {
+  margin: 0;
+  padding: .50rem 2.20rem .20rem;
+  background-color: #0079d7;
+}
+
+.content2 .product .container {
+  width: inherit;
+}
+
+.content2 .product .container .title {
+  text-align: center;
+}
+
+.content2 .product .container .title h1 {
+  font-size: 0.48rem;
+  font-family: "Microsoft YaHei";
+  color: #fffefe;
+  line-height: 1.90rem;
+}
+
+.content2 .product .container .row .col-lg-6 {
+  padding-bottom: .70rem;
+}
+
+.content2 .product .container .row .col-lg-6 .logo-1 {
+  padding: 0;
+  margin: 0;
+  height: 0.75rem;
+  border-radius: .11rem;
+  background: url("../images/sign-1.png") no-repeat center center;
+}
+
+.content2 .product .container .row .col-lg-6 .logo-2 {
+  padding: 0;
+  margin: 0;
+  height: 0.75rem;
+  border-radius: .11rem;
+  background: url("../images/sign-2.png") no-repeat center center;
+}
+
+.content2 .product .container .row .col-lg-6 .logo-3 {
+  padding: 0;
+  margin: 0;
+  height: 0.75rem;
+  border-radius: .11rem;
+  background: url("../images/sign-3.png") no-repeat center center;
+}
+
+.content2 .product .container .row .col-lg-6 .logo-4 {
+  padding: 0;
+  margin: 0;
+  height: 0.75rem;
+  border-radius: .11rem;
+  background: url("../images/sign-4.png") no-repeat center center;
+}
+
+.content2 .product .container .row .col-lg-6 .logo-5 {
+  padding: 0;
+  margin: 0;
+  height: 0.75rem;
+  border-radius: .11rem;
+  background: url("../images/sign-5.png") no-repeat center center;
+}
+
+.content2 .product .container .row .col-lg-6 .logo-6 {
+  padding: 0;
+  margin: 0;
+  height: 0.75rem;
+  border-radius: .11rem;
+  background: url("../images/sign-6.png") no-repeat center center;
+}
+
+.content2 .product .container .row .col-lg-6 .detail h3 {
+  font-size: 0.32rem;
+  font-family: "Microsoft YaHei";
+  color: #fffefe;
+  padding-bottom: .13rem;
+}
+
+.content2 .product .container .row .col-lg-6 .detail p {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: #fffefe;
+  line-height: .29rem;
+}
+
+.content3 {
+  margin: 0;
+  padding: .50rem 2.20rem .20rem;
+}
+
+.content3 .game .container {
+  width: inherit;
+}
+
+.content3 .game .container .title {
+  position: relative;
+}
+
+.content3 .game .container .title h1 {
+  font-size: 0.34rem;
+  font-family: "Microsoft YaHei";
+  color: #2a2a2a;
+  padding-bottom: .46rem;
+}
+
+.content3 .game .container .title a {
+  position: absolute;
+  text-decoration: none;
+  display: inline-block;
+  color: #2a2a2a;
+  top: 0;
+  right: 0;
+}
+
+.content3 .game .container .title a span {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: black;
+}
+
+.content3 .game .container .row .pic img {
+  width: 3.7rem;
+  height: 2rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-1 {
+  background: url("../images/game-header-1.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-1 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-2 {
+  background: url("../images/game-header-2.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-2 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-3 {
+  background: url("../images/game-header-3.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-3 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-4 {
+  background: url("../images/game-header-4.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-4 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-5 {
+  background: url("../images/game-header-5.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-5 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-6 {
+  background: url("../images/game-header-6.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-6 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-7 {
+  background: url("../images/game-header-7.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-7 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-8 {
+  background: url("../images/game-header-8.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-8 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-9 {
+  background: url("../images/game-header-9.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-9 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-10 {
+  background: url("../images/game-header-10.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-10 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-11 {
+  background: url("../images/game-header-11.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-11 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-12 {
+  background: url("../images/game-header-12.png") no-repeat top center;
+  padding-bottom: .15rem;
+}
+
+.content3 .game .container .row .game-list .game-list-msg-12 a {
+  height: 1.07rem;
+  display: block;
+  padding-top: .70rem;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+.content4 {
+  margin: 0;
+  padding: .30rem 2.20rem .40rem;
+}
+
+.content4 .partner .container {
+  padding: 0 .20rem;
+  width: inherit;
+}
+
+.content4 .partner .container .title {
+  padding-bottom: .30rem;
+}
+
+.content4 .partner .container .title h1 {
+  font-size: 0.3rem;
+  font-family: "Microsoft YaHei";
+  color: #2a2a2a;
+}
+
+.content4 .partner .container .title h1 small {
+  color: #777777;
+}
+
+.content4 .partner .container .partner-list-1 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-1.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-2 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-2.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-3 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-3.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-4 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-4.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-5 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-5.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-6 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-6.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-7 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-7.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-8 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-8.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-9 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-9.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-10 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-10.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-11 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-11.jpg") no-repeat center center;
+  overflow: hidden;
+}
+
+.content4 .partner .container .partner-list-12 {
+  margin: 0 .15rem .20rem 0;
+  width: 1.5rem;
+  height: 0.66rem;
+  background: url("../images/partner-12.jpg") no-repeat center center;
+  overflow: hidden;
 }

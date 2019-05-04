@@ -1,0 +1,84 @@
+.header {
+  padding-bottom: .01rem;
+}
+
+.header .nav-my {
+  margin-bottom: 0;
+  padding: 0 2.20rem;
+  min-height: .50rem;
+}
+
+.header .nav-my .container-fluid .navbar-header .brand {
+  padding: 0;
+  height: .50rem;
+  width: 1.27rem;
+  margin: .05rem .15rem 0 0;
+}
+
+.header .nav-my .container-fluid .navbar-header .brand img {
+  height: .50rem;
+  width: 1.27rem;
+}
+
+.header .nav-my .container-fluid .collapse .nav li {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: white;
+  box-sizing: border-box;
+}
+
+.header .nav-my .container-fluid .collapse .nav li a {
+  padding: 0 .15rem;
+  line-height: 0.5rem;
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+  .header .nav-my {
+    padding: 0;
+  }
+  .header .nav-my .container-fluid .navbar-header .brand img {
+    height: 50px;
+    width: 127px;
+    padding-left: .20rem;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .header .nav-my {
+    padding: 0;
+  }
+  .header .nav-my .container-fluid .navbar-header .brand img {
+    height: 50px;
+    width: 127px;
+    padding-left: .20rem;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+  .header .nav-my {
+    padding: 0;
+  }
+  .header .nav-my .container-fluid .navbar-header .brand img {
+    height: 50px;
+    width: 127px;
+    padding-left: .20rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .header .nav-my {
+    padding: 0;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .header .nav-my {
+    padding: 0 1rem;
+  }
+}
+
+@media (min-width: 1440px) and (max-width: 2559px) {
+  .header .nav-my {
+    padding: 0 2.20rem;
+  }
+}

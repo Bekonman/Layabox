@@ -1,0 +1,103 @@
+.footer {
+  margin: 0;
+  padding: .30rem 2.20rem .40rem;
+  background-color: #3b3b3b;
+}
+
+.footer .container {
+  width: inherit;
+  padding: 0;
+}
+
+.footer .container .row .footer-left a {
+  color: #a1a3ab;
+}
+
+.footer .container .row .footer-left a span {
+  font-size: 0.14rem;
+  font-family: "Microsoft YaHei";
+  color: #a1a3ab;
+  line-height: 0.29rem;
+}
+
+.footer .container .row .footer-left p {
+  font-size: 0.11rem;
+  font-family: "Microsoft YaHei";
+  color: #a1a3ab;
+}
+
+.footer .container .row .footer-right {
+  height: 0.4rem;
+  padding: 0;
+  margin: 0;
+}
+
+.footer .container .row .footer-right .row {
+  height: inherit;
+}
+
+.footer .container .row .footer-right .row .relevance-0 a {
+  position: relative;
+  display: inline-block;
+  font-size: 0px;
+  width: 0.4rem;
+  height: 0.4rem;
+  background: url("../images/chatlogo.png") no-repeat -0px 0;
+}
+
+.footer .container .row .footer-right .row .relevance-0 a:hover {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 1.42rem;
+  height: 1.5rem;
+  background: url("../images/scan.png") no-repeat center center;
+  top: -1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 40;
+}
+
+.footer .container .row .footer-right .row .relevance-58 a {
+  position: relative;
+  display: inline-block;
+  font-size: 0px;
+  width: 0.4rem;
+  height: 0.4rem;
+  background: url("../images/chatlogo.png") no-repeat -58px 0;
+}
+
+.footer .container .row .footer-right .row .relevance-58 a:hover {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 1.42rem;
+  height: 1.5rem;
+  background: url("../images/scan.png") no-repeat center center;
+  top: -1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 40;
+}
+
+.footer .container .row .footer-right .row .relevance-116 a {
+  position: relative;
+  display: inline-block;
+  font-size: 0px;
+  width: 0.4rem;
+  height: 0.4rem;
+  background: url("../images/chatlogo.png") no-repeat -116px 0;
+}
+
+.footer .container .row .footer-right .row .relevance-116 a:hover {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 1.42rem;
+  height: 1.5rem;
+  background: url("../images/scan.png") no-repeat center center;
+  top: -1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 40;
+}

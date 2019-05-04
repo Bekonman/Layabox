@@ -1,0 +1,202 @@
+.navbar {
+  margin-bottom: 0; }
+
+.navbar-brand > img {
+  margin-top: -7px; }
+
+.container {
+  padding-left: 20px; }
+
+.dropdown-menu {
+  padding-top: 0;
+  padding-bottom: 0; }
+
+.dropdown-menu > li > a {
+  background-color: #222222;
+  color: #9d9d9d; }
+  .dropdown-menu > li > a:hover {
+    background-color: #222222;
+    color: #fff; }
+
+.flash {
+  background-color: #8bc01f;
+  padding-top: 60px;
+  padding-bottom: 60px; }
+  .flash .left {
+    color: #ffffff;
+    padding-left: 30px; }
+    .flash .left h3 {
+      font-size: 48px;
+      color: #ffffff;
+      position: relative;
+      text-indent: 65px; }
+      .flash .left h3 span {
+        display: inline-block;
+        width: 53px;
+        height: 53px;
+        line-height: 53px;
+        text-align: center;
+        text-indent: 0;
+        background-color: #fff;
+        color: #8bc01f;
+        position: absolute;
+        top: 0;
+        left: -15px; }
+    .flash .left p:nth-child(2) {
+      font-size: 24px;
+      margin-top: 15px; }
+    .flash .left p:nth-child(3) {
+      font-size: 14px;
+      margin-top: 55px; }
+    .flash .left p:nth-child(4), .flash .left p:nth-child(5) {
+      font-size: 14px;
+      margin-top: 30px; }
+    .flash .left a {
+      color: #8bc01f;
+      background-color: #e8f2d2;
+      display: inline-block;
+      width: 100px;
+      height: 34px;
+      border-radius: 3px;
+      margin-top: 37px;
+      line-height: 34px;
+      text-align: center;
+      font-size: 14px; }
+
+.player {
+  background-color: #3393df;
+  padding-top: 72px;
+  padding-bottom: 60px;
+  color: #ffffff; }
+  .player .top h3 {
+    font-size: 48px;
+    color: #ffffff;
+    position: relative;
+    text-indent: 65px; }
+    .player .top h3 span {
+      display: inline-block;
+      width: 44px;
+      height: 44px;
+      line-height: 44px;
+      text-align: center;
+      text-indent: 0;
+      background-color: #fff;
+      color: #3393df;
+      position: absolute;
+      top: 0;
+      left: -5px;
+      font-size: 40px; }
+  .player .mid h2 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 24px; }
+  .player .mid p {
+    font-size: 14px;
+    line-height: 30px; }
+  .player .right {
+    margin-top: 151px; }
+
+.air {
+  background-color: #ffffff;
+  padding-top: 70px;
+  padding-bottom: 30px; }
+  .air .top h3 {
+    font-size: 42px;
+    color: #3393df;
+    position: relative;
+    text-indent: 65px;
+    margin-bottom: 25px; }
+    .air .top h3 span {
+      display: inline-block;
+      width: 41px;
+      height: 41px;
+      line-height: 41px;
+      text-align: center;
+      text-indent: 0;
+      background-color: #3393df;
+      color: #ffffff;
+      position: absolute;
+      top: 0;
+      left: -5px;
+      font-size: 36px; }
+  .air .mid {
+    font-size: 18px;
+    color: #5d5d5d;
+    margin-bottom: 25px; }
+  .air .bottom h5 {
+    font-size: 18px;
+    color: #3393df;
+    margin-bottom: 14px; }
+  .air .bottom p {
+    font-size: 14px;
+    color: #5d5d5d;
+    line-height: 25px;
+    margin-bottom: 33px;
+    height: 72px; }
+
+.store {
+  background-color: #f7f7f7;
+  padding-top: 70px;
+  padding-bottom: 50px; }
+  .store .top h3 {
+    font-size: 42px;
+    color: #3393df;
+    position: relative;
+    text-indent: 65px;
+    margin-bottom: 25px; }
+    .store .top h3 span {
+      display: inline-block;
+      width: 41px;
+      height: 41px;
+      line-height: 41px;
+      text-align: center;
+      text-indent: 0;
+      background-color: #3393df;
+      color: #ffffff;
+      position: absolute;
+      top: 0;
+      left: -5px;
+      font-size: 36px; }
+  .store .mid {
+    font-size: 18px;
+    color: #5d5d5d;
+    margin-bottom: 25px; }
+  .store .bottom h5 {
+    font-size: 18px;
+    color: #3393df;
+    margin-bottom: 14px; }
+  .store .bottom p {
+    font-size: 14px;
+    color: #5d5d5d;
+    line-height: 25px;
+    margin-bottom: 33px;
+    height: 72px; }
+  .store img {
+    width: 162px; }
+
+.copyright {
+  background-color: #3b3b3b;
+  line-height: 29px;
+  padding-top: 30px;
+  padding-bottom: 20px; }
+  .copyright .left .row a {
+    font-size: 14px;
+    color: #a1a3ab;
+    text-decoration: none; }
+  .copyright .left .row div {
+    font-size: 11px;
+    color: #a1a3ab; }
+  .copyright .right {
+    margin-top: 10px; }
+    .copyright .right .row a {
+      display: inline-block;
+      text-align: center; }
+      .copyright .right .row a img {
+        width: 38px;
+        height: 38px; }
+
+@media screen and (max-device-width: 425px) {
+  .copyright {
+    text-align: center; } }
+
+/*# sourceMappingURL=family.css.map */
